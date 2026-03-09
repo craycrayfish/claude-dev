@@ -1,0 +1,17 @@
+{
+  "name": "claude-dev",
+  "owner": {
+    "name": "craycrayfish"
+  },
+  "plugins": [
+    {
+      "name": "claude-dev",
+      "source": {
+        "source": "github",
+        "repo": "craycrayfish/claude-dev"
+      },
+      "description": "Claude dev plugin",
+      "version": "0.1.0"
+    }
+  ]
+}

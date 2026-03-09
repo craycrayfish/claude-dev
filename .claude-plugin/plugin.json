@@ -1,0 +1,16 @@
+{
+  "name": "claude-dev",
+  "version": "0.1.0",
+  "description": "TODO: describe what this plugin does",
+  "author": {
+    "name": "TODO: your name",
+    "email": "TODO: your email",
+    "url": "https://github.com/craycrayfish/claude-dev"
+  },
+  "homepage": "https://github.com/craycrayfish/claude-dev",
+  "repository": "https://github.com/craycrayfish/claude-dev",
+  "license": "MIT",
+  "keywords": [
+    "claude-code"
+  ]
+}
