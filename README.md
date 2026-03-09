@@ -4,9 +4,13 @@ A [Claude Code](https://code.claude.com) plugin for engineering work — TDD wor
 
 ## Installation
 
-```bash
-claude plugin install claude-dev@craycrayfish/claude-dev
+In Claude Code, access plugins using
+
 ```
+/plugin
+```
+
+Then add the marketplace `craycrayfish/claude-dev`.
 
 Or test locally during development:
 
