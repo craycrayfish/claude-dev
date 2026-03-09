@@ -2,6 +2,7 @@
 name: checkpoint
 description: Create, verify, or list workflow checkpoints by snapshotting git state. Use when starting a feature, after completing a phase, or before a risky refactor.
 ---
+
 # Checkpoint Command
 
 Create or verify a checkpoint in your workflow.
