@@ -1,16 +1,14 @@
 {
   "name": "claude-dev",
   "version": "0.2.0",
-  "description": "TODO: describe what this plugin does",
+  "description": "Superpowered robotics development",
   "author": {
-    "name": "TODO: your name",
-    "email": "TODO: your email",
+    "name": "TODO: Shawn Tan",
+    "email": "TODO: shawntan72@gmail.com",
     "url": "https://github.com/craycrayfish/claude-dev"
   },
   "homepage": "https://github.com/craycrayfish/claude-dev",
   "repository": "https://github.com/craycrayfish/claude-dev",
   "license": "MIT",
-  "keywords": [
-    "claude-code"
-  ]
+  "keywords": ["claude-code"]
 }
