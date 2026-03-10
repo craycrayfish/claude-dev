@@ -6,10 +6,7 @@
   "plugins": [
     {
       "name": "claude-dev",
-      "source": {
-        "source": "github",
-        "repo": "craycrayfish/claude-dev"
-      },
+      "source": "./",
       "description": "Claude dev plugin",
       "version": "0.2.0"
     }
